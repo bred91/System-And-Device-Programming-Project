@@ -1,0 +1,11 @@
+
+# Rust/Cargo specific files
+/debug
+/usb/log/*
+
+# IDE specific files
+.idea/
+.vscode/
+/target
+
+/log

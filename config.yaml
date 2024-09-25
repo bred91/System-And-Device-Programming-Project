@@ -1,0 +1,4 @@
+path_dest_backup: "C:/Users/paner/Desktop/Polito Registrazioni/PDS/out"
+path_orig_backup : "C:/Users/paner/Desktop/Polito Registrazioni/PDS/2024/RUST"
+type_files : [.mp3,.wav,.mp4]
+btn_rec: true
